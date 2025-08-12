@@ -10,8 +10,8 @@ I am a tropical biology student with a passion for birds of prey in the neotropi
 
 
 ## Education
-* **BAchelor's in Biology with an emphasis in Tropical Biology** - Universidad Nacional de Costa Rica — Ongoing.
-*  **High-school diploma** Centro Educativo Horizontes - 2018
+* **Bachelor's in Biology with an emphasis in Tropical Biology** - Universidad Nacional de Costa Rica — Ongoing.
+* **High-school diploma** Centro Educativo Horizontes - 2018
 
 ## Languages
 * Spanish: Native

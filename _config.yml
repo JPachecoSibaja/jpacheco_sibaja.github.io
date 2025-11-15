@@ -1,6 +1,0 @@
-title: José's Portfolio
-name: 
-<null logo: <img src="mugshot.jpeg" alt="My photo" width: "200px">
-remote_theme: pages-themes/midnight@v8.2.0
-plugins:
-- jekyll-remote-theme

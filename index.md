@@ -26,8 +26,8 @@ I am a tropical biology student with a passion for birds of prey in the neotropi
 * Bird watching.
 
 ## Contact Information
-* [**Email**](jmpachecosibaja@gmail.com)
-* [**Writer Email**](jmpendrake@gmail.com)
+* [**Email**](mailto:jmpachecosibaja@gmail.com)
+* [**Writer Email**](mailto:jmpendrake@gmail.com)
 * [**ORCID**](https://orcid.org/0009-0003-4801-0531)
 
 ---
